@@ -1,0 +1,48 @@
+I caught this morning morning's minion, king-
+ {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ Neutral
+dom of daylight's dauphin, dapple-dawn-drawn Falcon, in his riding
+ {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ Neutral
+Of the rolling level underneath him steady air, and striding
+ {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ Neutral
+High there, how he rung upon the rein of a wimpling wing
+ {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ Neutral
+In his ecstasy! then off, off forth on swing,
+ {'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.636}
+ Positive
+As a skate's heel sweeps smooth on a bow-bend: the hurl and gliding
+ {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ Neutral
+Rebuffed the big wind. My heart in hiding
+ {'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}
+ Negative
+Stirred for a bird, â€“ the achieve of, the mastery of the thing!
+ {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ Neutral
+
+ {'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ Neutral
+Brute beauty and valour and act, oh, air, pride, plume, here
+ {'neg': 0.0, 'neu': 0.592, 'pos': 0.408, 'compound': 0.7351}
+ Positive
+Buckle! AND the fire that breaks from thee then, a billion
+ {'neg': 0.23, 'neu': 0.77, 'pos': 0.0, 'compound': -0.4003}
+ Negative
+Times told lovelier, more dangerous, O my chevalier!
+ {'neg': 0.38, 'neu': 0.62, 'pos': 0.0, 'compound': -0.5697}
+ Negative
+
+ {'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ Neutral
+No wonder of it: shÃ©er plÃ³d makes plough down sillion
+ {'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.296}
+ Negative
+Shine, and blue-bleak embers, ah my dear,
+ {'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.3818}
+ Positive
+Fall, gall themselves, and gash gold-vermilion.
+ {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ Neutral
